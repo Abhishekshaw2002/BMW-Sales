@@ -1,4 +1,5 @@
 # BMW-Sales
+![intro](https://github.com/Abhishekshaw2002/BMW-Sales/blob/73f657b048a6312dec87340c57e46b88f53b7345/Img%20used/BMW.svg.png)
 
 # Problem Statement:
 The automotive industry generates vast amounts of sales data, which, if analyzed effectively, can provide valuable insights into sales performance, customer preferences, and market trends. However, the data is often scattered across multiple files and lacks a centralized system for analysis. This project aims to address the challenge of consolidating and visualizing BMW car sales data from Excel files to provide actionable insights for decision-making.
@@ -88,5 +89,6 @@ This Power BI project successfully consolidated and analyzed BMW car sales data 
 
 # Screenshot: 
 Include screenshot of the Power Bi dashboard ,data model and visualiZations. 
-
+![intro](https://github.com/Abhishekshaw2002/BMW-Sales/blob/73f657b048a6312dec87340c57e46b88f53b7345/Img%20used/BMW%20dashboard.png)
+![intro](https://github.com/Abhishekshaw2002/BMW-Sales/blob/73f657b048a6312dec87340c57e46b88f53b7345/Img%20used/bmw%20dasboard%202.png)
 
